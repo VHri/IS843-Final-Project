@@ -5,6 +5,13 @@ This project aims to explore healthcare service utilization and demand based on 
 
 ### This is a Course Final Project Report Repository for the course QST IS843 (Big Data Analytics for Business)
 
+## Data Source:
+- Center for Medicare & Medicaid Services Synthetic Patient Data
+- The CMS Synthetic Patient Data in BigQuery offers a simulated snapshot of Medicare insurance claims from 2008-2010. It includes anonymized information on 2.33 million patients, encompassing diagnoses, procedures, medications, encounters, and provider details. While not reflecting real individuals, this data allows researchers to explore healthcare trends and patterns related to disease prevalence, mortality rates, provider analysis, and cost analysis.
+
+## Motivation:
+As the healthcare landscape continues to change, characterized by increasing costs, varying disease prevalence, and demographic shifts, we think it’s crucial to understand and optimize healthcare services across various settings and populations. Our motivation is to help the US healthcare system in improving the delivery of healthcare and the distribution of resources.
+
 
 Team Members:
 - Hrishav Varma
